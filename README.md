@@ -1,5 +1,5 @@
-## Oi, me chamo Ronald Santos, sou estudante de Análise e Desenvolvimento de Sistemas!
-## Atualmente estudo Javascript, HTML e CSS para me aprofundar em desenvolvimento Web!
+## Hi, my name is Ronald Santos, I'm a Systems Analysis and Development student!
+## I'm currently studying Javascript, HTML and CSS to delve into web development!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ronald-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
